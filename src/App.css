@@ -1,0 +1,12 @@
+.middle {
+  display: grid;
+  place-items: center;
+}
+.king > button {
+  height: 3rem;
+  width: 3rem;
+}
+.extra > button {
+  height: 2rem;
+  width: 6rem;
+}
